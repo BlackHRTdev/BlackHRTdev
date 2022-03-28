@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlackHRTdev
+- 👋 Hi, I’m vKurode
 - 👀 I’m interested in becoming a game dev.
 - 🌱 I’m currently learning how to produce games with C++ on Unreal Engine.
 - 💞️ I’m looking to collaborate on companies that works with game production.
